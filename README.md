@@ -19,3 +19,14 @@ Best tutorial I could find for headless remote access via SSH [Link](https://you
 ## Power monitor 
 - Using the TC66C USC charge tester 
 - Reference guide to all details [Link](https://youtu.be/rOlhibDUJgs?si=OIWAIgBVffbeVPSH)
+
+## Reducing power
+
+Can disable 
+-  USB ports
+-  HDMI
+-  Bluetooth
+
+Reference [https://core-electronics.com.au/guides/disable-features-raspberry-pi/](https://core-electronics.com.au/guides/disable-features-raspberry-pi/)
+
+Not Relevant but can reduce standby power on shutdown : [https://www.jeffgeerling.com/blog/2023/reducing-raspberry-pi-5s-power-consumption-140x](https://www.jeffgeerling.com/blog/2023/reducing-raspberry-pi-5s-power-consumption-140x)
