@@ -19,6 +19,7 @@ Best tutorial I could find for headless remote access via SSH [Link](https://you
 ## Power monitor 
 - Using the TC66C USC charge tester 
 - Reference guide to all details [Link](https://youtu.be/rOlhibDUJgs?si=OIWAIgBVffbeVPSH)
+- [Software](https://www.mediafire.com/folder/pqn0ybytqpy7n/TC66)
 
 ## Reducing power
 
